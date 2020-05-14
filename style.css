@@ -150,6 +150,11 @@ body {
   letter-spacing: 1px;
 }
 
+.signup:hover {
+  cursor: pointer;
+  box-shadow: 0 3px 6px 0 #00000034;
+}
+
 .cardWhyUs ul {
   color: #e7e7e7c4;
   font-size: 0.8rem;
